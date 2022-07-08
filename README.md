@@ -1,5 +1,6 @@
 # Proposta de actualização do layault do Site da Tech Pro Bem.
-![Screenshot from 2022-07-08 03-03-40](https://user-images.githubusercontent.com/72309855/177896097-29d74a1c-122d-43a6-8895-20eb8159ae39.png)
+![Screenshot from 2022-07-08 03-13-22](https://user-images.githubusercontent.com/72309855/177897002-b59332a2-58d2-4172-83e1-6b44ac827e39.png)
+
 
 ## <a href='https://techprobem-delta.vercel.app/'>Live</a>
 
