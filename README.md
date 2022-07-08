@@ -1,4 +1,4 @@
-# Proposta de atualizacao do layault do Site da Tech Pro Bem.
+# Proposta de actualização do layault do Site da Tech Pro Bem.
 ![Screenshot from 2022-07-08 03-03-40](https://user-images.githubusercontent.com/72309855/177896097-29d74a1c-122d-43a6-8895-20eb8159ae39.png)
 
 ## <a href='https://techprobem-delta.vercel.app/'>Live</a>
