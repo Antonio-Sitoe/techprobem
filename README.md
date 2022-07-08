@@ -19,12 +19,24 @@ A Tech Pro Bem é uma comunidade de profissionais da área de tecnologia
 dedicada a contribuir com ONGs e projetos sociais, potencializando 
 o alcance digital do terceiro setor.
 
-## Tecnologias e ferramentas
+## Tecnologias e ferramentas usadas no projecto.
  - Figma ( <a href='https://www.figma.com/file/9je1KAPWjy5i2d6f4h0yb7/Techprobem?node-id=0%3A1'>Ver o design</a>)
  - NextJs
  - ReactJs
  - Typescript
  - Styled-components
  - E muita criatividade, hehehe
+ 
+ ### Instalar os pacotes
+
+```
+   yarn install
+```
+
+### Rodar
+
+```
+   yarn dev
+```
 
 
