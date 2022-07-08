@@ -11,8 +11,7 @@ que podemos causar na vida dos outros, mas do papel que esse trabalho pode desem
 Ser voluntário torna uma pessoa mais empática, mais amável, mais tolerante,
 ajuda a ter disciplina e ser responsável. Além disso, pode ter um grande impacto na vida profissional, sabia?
 
-Por esta e mais razoes eu me encarreguei de me voluntariar, e propor nao so o design do site da Tech ProBem, mas tambem o codigo frontend inteiro.
-
+Por esta e mais razões eu me encarreguei de me voluntariar, e propor não só o design do site da Tech ProBem, mas também o código frontend inteiro.
 
 ## Sobre a Tech Pro Bem
 A Tech Pro Bem é uma comunidade de profissionais da área de tecnologia 
