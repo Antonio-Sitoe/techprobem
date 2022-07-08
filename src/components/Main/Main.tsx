@@ -18,7 +18,7 @@ function Main() {
           </p>
           <div>
             <Button title='Sou um desenvolvedor' link='#parte'/>
-            <Button outline={true} title='Sou um desenvolvedor' link='#parte' />
+            <Button outline={true} title='Sou uma ONG' link='#parte' />
           </div>
         </div>
         <div className='image'>
